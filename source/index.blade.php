@@ -80,7 +80,7 @@
             </header>
 
             <p class="text-xl font-light leading-9">
-                APRED is a map-based platform that provides practitioners with information on 
+                APRED is a map-based platform that provides policy makers with information on 
                 the disaster resilience and vulnerability profile of all counties across 
                 the United States.
             </p>
