@@ -28,7 +28,7 @@
                 </header>
 
                 <main class="font-light">
-                    View percentage of businesses within a county 
+                    View percentage of business sectors within a county 
                     that might be vulnerable to disasters.
                 </main>
             </div>
@@ -75,13 +75,13 @@
         <section class="lg:col-span-1 py-24">
             <header class="text-4xl font-normal">
                 <span class="border-b border-red-800">
-                    What is APRED
+                    What is APRED?
                 </span>
             </header>
 
             <p class="text-xl font-light leading-9">
                 APRED is a map-based platform that provides practitioners with information on 
-                the disaster resilience and vulnerability profile of all the counties across 
+                the disaster resilience and vulnerability profile of all counties across 
                 the United States.
             </p>
         </section>
