@@ -28,7 +28,7 @@
                 </header>
 
                 <main class="font-light">
-                    View percentage of business sectors within a county 
+                    View percentage of businesses within a county 
                     that might be vulnerable to disasters.
                 </main>
             </div>
